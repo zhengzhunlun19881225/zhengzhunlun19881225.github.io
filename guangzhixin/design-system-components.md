@@ -101,6 +101,18 @@
 | `--gx-shadow-floating` | `0 4px 10px #0000001a` |
 | `--gx-shadow-floating-active` | `0 8px 20px #00000026` |
 | `--gx-brand-gradient` | `linear-gradient(159deg, #FF9622 13%, #FF0000 92%)` |
+| `--gx-catalog-icon-blue` | `#278BFF` |
+| `--gx-catalog-icon-orange` | `#FF9B0C` |
+| `--gx-catalog-icon-purple` | `linear-gradient(#AB5BEA, var(--gx-purple))` |
+| `--gx-app-blue-start` | `#64C3FD` |
+| `--gx-app-blue-end` | `#288BFF` |
+| `--gx-app-orange-start` | `#FFB23C` |
+| `--gx-app-orange-end` | `#FF9B0C` |
+| `--gx-app-red-start` | `#FF7338` |
+| `--gx-app-red-end` | `#FF4E1D` |
+| `--gx-app-icon-blue` | `linear-gradient(var(--gx-app-blue-start), var(--gx-app-blue-end))` |
+| `--gx-app-icon-orange` | `linear-gradient(var(--gx-app-orange-start), var(--gx-app-orange-end))` |
+| `--gx-app-icon-red` | `linear-gradient(var(--gx-app-red-start), var(--gx-app-red-end))` |
 | `--gx-success` | `#00B578` |
 | `--gx-success-bg` | `#EAF8ED` |
 | `--gx-info` | `#006DFF` |
