@@ -113,6 +113,12 @@
 | `--gx-app-icon-blue` | `linear-gradient(var(--gx-app-blue-start), var(--gx-app-blue-end))` |
 | `--gx-app-icon-orange` | `linear-gradient(var(--gx-app-orange-start), var(--gx-app-orange-end))` |
 | `--gx-app-icon-red` | `linear-gradient(var(--gx-app-red-start), var(--gx-app-red-end))` |
+| `--gx-system-purple-start` | `#AB5BEA` |
+| `--gx-system-cyan-start` | `#62DDDD` |
+| `--gx-system-green-start` | `#4ED6A8` |
+| `--gx-system-brand-start` | `#FF9622` |
+| `--gx-system-mascot-yellow-start` | `#FFD666` |
+| `--gx-system-mascot-yellow-end` | `#FFB800` |
 | `--gx-success` | `#00B578` |
 | `--gx-success-bg` | `#EAF8ED` |
 | `--gx-info` | `#006DFF` |
